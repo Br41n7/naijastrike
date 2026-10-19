@@ -1,0 +1,6 @@
+{
+  "name": "Naija Strike: 3D Third-Person Shooter",
+  "description": "A fast, lightweight 3D third-person tactical urban shooter prototype featuring procedural styling, mobile touch joystick, desktop WASD controls, collision physics, and fluid combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
